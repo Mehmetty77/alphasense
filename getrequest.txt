@@ -1,0 +1,264 @@
+{
+    "topics": [],
+    "searchResults": {
+        "cursorToken": null,
+        "originalStatementCount": 17,
+        "statements": [
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse1"
+                ],
+                "content": "TITLE HIT",
+                "context": false,
+                "page": 0,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse1",
+                "statementIndex": 1,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse100"
+                ],
+                "content": "<span class='hl'>AlphaSense</span> Raises $180 Million Series C Led by Viking Global and Goldman Sachs, Joined by Morgan Stanley, Citi, Bank of America, Barclays, Wells Fargo, Cowen, AllianceBernstein",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse100",
+                "statementIndex": 100,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse289"
+                ],
+                "content": "Wall Street firms back <span class='hl'>AlphaSense</span> as the leading market intelligence and search platform, used by clients now spanning the majority of S&P 500 companies across all sectors of the economy",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse289",
+                "statementIndex": 289,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse494"
+                ],
+                "content": "30, 2021 /PRNewswire/ -- New York-based <span class='hl'>AlphaSense,</span> the leading market intelligence and search platform, today announced its $180 million Series C financing round led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management (Goldman Sachs), joined by Morgan Stanley, Citi, Bank of America, Barclays, Wells Fargo Strategic Capital, Cowen Inc., and AllianceBernstein, as well as existing investors.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse494",
+                "statementIndex": 494,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse1319"
+                ],
+                "content": "<span class='hl'>AlphaSense's</span> technology leverages AI and NLP to extract relevant insights from an extensive universe of public and private content, including over 10,000 premium business sources.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse1319",
+                "statementIndex": 1319,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse1630"
+                ],
+                "content": "The Series C funding announcement closely follows <span class='hl'>AlphaSense's</span> recent expansion of Wall Street Insights® (WSI), which provides content from the world's top analyst teams and brings together an exclusive collection of research and proprietary technology under one platform.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse1630",
+                "statementIndex": 1630,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse1903"
+                ],
+                "content": "As the most recent addition, earlier this year <span class='hl'>AlphaSense</span> formalized a partnership with Citi, becoming its only provider of aftermarket research to the corporate market.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse1903",
+                "statementIndex": 1903,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse2180"
+                ],
+                "content": "<span class='hl'>AlphaSense's</span> recent growth has been driven by strong adoption in the corporate market, alongside continued penetration across financial services.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse2180",
+                "statementIndex": 2180,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse2998"
+                ],
+                "content": "<span class='hl'>\"AlphaSense</span> provides relevant market intelligence to many of the world's leading companies, helping them to make impactful decisions more effectively,\" said Holger Staude, a Managing Director within the Growth Equity business at Goldman Sachs.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse2998",
+                "statementIndex": 2998,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse3242"
+                ],
+                "content": "\"Just like search engines have become large businesses on the consumer side, we believe <span class='hl'>AlphaSense</span> has an opportunity to help the business world extract key insights from the vast volumes of unstructured business information.\"",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse3242",
+                "statementIndex": 3242,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse3817"
+                ],
+                "content": "As it expands internationally, <span class='hl'>AlphaSense</span> will continue investing in global and foreign-language content, as well as grow its customer service teams in North America and Europe, and its engineering teams in Finland, India, and New York.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse3817",
+                "statementIndex": 3817,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse4054"
+                ],
+                "content": "\"Every company's destiny is the cumulative sum of the decisions it makes,\" said Jack Kokko, CEO of <span class='hl'>AlphaSense</span>.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse4054",
+                "statementIndex": 4054,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse4563"
+                ],
+                "content": "About <span class='hl'>AlphaSense</span>",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse4563",
+                "statementIndex": 4563,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse4581"
+                ],
+                "content": "<span class='hl'>AlphaSense</span> is a market intelligence platform used by the world's leading companies and financial institutions.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse4581",
+                "statementIndex": 4581,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse5051"
+                ],
+                "content": "Headquartered in New York City, <span class='hl'>AlphaSense</span> employs over 450 people across offices in the U.S., U.K., Finland, and India.",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse5051",
+                "statementIndex": 5051,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse6305"
+                ],
+                "content": "Email: <span class='hl'>alphasense@vividand.co</span>",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse6305",
+                "statementIndex": 6305,
+                "statementIndexOffset": 0
+            },
+            {
+                "accessionNumber": "PR-386ea743f2a90399fb0e4300ddf37d0697abc743",
+                "collapsedStatements": [
+                    "fse6357"
+                ],
+                "content": "Logo - <span class='hl'>https://mma.prnewswire.com/media/947841/AlphaSense_Logo.jpg</span>",
+                "context": false,
+                "page": 1,
+                "recurring": false,
+                "snippetCount": 1,
+                "snippetOffset": 0,
+                "statementId": "fse6357",
+                "statementIndex": 6357,
+                "statementIndexOffset": 0
+            }
+        ]
+    }
+}
