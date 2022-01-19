@@ -8,11 +8,6 @@
     <artifactId>ali-testng-framework</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<!--    <properties>-->
-<!--        <maven.compiler.source>8</maven.compiler.source>-->
-<!--        <maven.compiler.target>8</maven.compiler.target>-->
-<!--    </properties>-->
-
     <dependencies>
         <!--        Selenium dependency -->
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -47,14 +42,6 @@
             <artifactId>rest-assured</artifactId>
             <version>4.3.0</version>
         </dependency>
-
-
-        <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-testng</artifactId>
-            <version>2.16.1</version>
-        </dependency>
-
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-api</artifactId>
@@ -99,7 +86,7 @@
                         [...]
                     </systemPropertyVariables>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/java/com/ali/suites/smoketest.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar"
@@ -126,16 +113,16 @@
             </plugin>
 
 
-            <plugin>
-                <groupId>io.qameta.allure</groupId>
-                <artifactId>allure-maven</artifactId>
-                <version>2.8</version>
-                <configuration>
-                    <propertiesFilePath>C:\Users\alios\IdeaProjects\ali-testng-framework\src\test\java\resources\allure.properties</propertiesFilePath>
-                    <reportDirectory>C:\Users\alios\IdeaProjects\ali-testng-framework\target</reportDirectory>
-                </configuration>
+<!--            <plugin>-->
+<!--                <groupId>io.qameta.allure</groupId>-->
+<!--                <artifactId>allure-maven</artifactId>-->
+<!--                <version>2.8</version>-->
+<!--                <configuration>-->
+<!--                    <propertiesFilePath>C:\Users\alios\IdeaProjects\ali-testng-framework\src\test\java\resources\allure.properties</propertiesFilePath>-->
+<!--                    <reportDirectory>C:\Users\alios\IdeaProjects\ali-testng-framework\target</reportDirectory>-->
+<!--                </configuration>-->
 
-            </plugin>
+<!--            </plugin>-->
 
         </plugins>
     </build>

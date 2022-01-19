@@ -3,7 +3,6 @@
 <suite name="All Test Suite">
     <listeners>
         <listener class-name="com.ali.utilities.extentreports.TestListeners"/>
-<!--        <listener class-name="com.ali.utilities.listeners.AnnotationTransformer"/>-->
     </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/alios/IdeaProjects/ali-testng-framework">
         <classes>
