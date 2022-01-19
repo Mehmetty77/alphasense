@@ -2,23 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <listeners>
-<!--        <listener class-name="com.ali.utilities.listeners.TestListener"/>-->
+        <listener class-name="com.ali.utilities.extentreports.TestListeners"/>
 <!--        <listener class-name="com.ali.utilities.listeners.AnnotationTransformer"/>-->
     </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/alios/IdeaProjects/ali-testng-framework">
         <classes>
-            <class name="com.ali.tests.smoketest.ApiTesting">
-                <methods>
-                    <exclude name="getTest"/>
-                    <exclude name="dummyTest"/>
-                </methods>
-            </class>
-            <class name="com.ali.tests.smoketest.UiTesting">
-                <methods>
-                    <include name="test01"/>
-                    <include name="test02"/>
-                </methods>
-            </class>
+            <class name="com.ali.tests.smoketest.UiTesting"></class>
+            <class name="com.ali.tests.smoketest.GoogleSearch"></class>
+            <class name="com.ali.tests.smoketest.ApiTesting"></class>
+<!--            <class name="com.ali.tests.smoketest.TestClassUsingListeners"></class>-->
         </classes>
     </test>
 </suite>
