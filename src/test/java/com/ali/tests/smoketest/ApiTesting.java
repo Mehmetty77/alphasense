@@ -26,7 +26,7 @@ public class ApiTesting {
                 .contentType(ContentType.JSON)
                 .extract().
                 response();
-//        response.prettyPrint();
+        response.prettyPrint();
         AdditionalKeywordSearchResult actualData;
 
         ObjectMapper objmp = new ObjectMapper();
@@ -35,6 +35,10 @@ public class ApiTesting {
         System.out.println("actualData.getSearchResults().getStatements().get(statementsList.size()) = " + actualData.getSearchResults().getStatements().size());
 //        AdditionalKeywordSearchResult actualData = response.as(AdditionalKeywordSearchResult.class);
 //        System.out.println(actualData);
+        //status code
+        //data içeriği assert
+        //Tüm contentlerin alfasense keywordu içerdiğini assert et
+
         assertEquals(1,1);
     }
 
